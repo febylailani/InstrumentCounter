@@ -13,6 +13,7 @@
 		55055A38240FD30900499D5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55055A36240FD30900499D5D /* Main.storyboard */; };
 		55055A3A240FD30900499D5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55055A39240FD30900499D5D /* Assets.xcassets */; };
 		55055A3D240FD30900499D5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55055A3B240FD30900499D5D /* LaunchScreen.storyboard */; };
+		55F66D9E2410244700424950 /* functionToBeCopy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 55F66D9D2410244700424950 /* functionToBeCopy.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		55055A39240FD30900499D5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55055A3C240FD30900499D5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55055A3E240FD30900499D5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55F66D9D2410244700424950 /* functionToBeCopy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = functionToBeCopy.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				55055A30240FD30900499D5D /* AppDelegate.swift */,
 				55055A32240FD30900499D5D /* SceneDelegate.swift */,
 				55055A34240FD30900499D5D /* ViewController.swift */,
+				55F66D9D2410244700424950 /* functionToBeCopy.txt */,
 				55055A36240FD30900499D5D /* Main.storyboard */,
 				55055A39240FD30900499D5D /* Assets.xcassets */,
 				55055A3B240FD30900499D5D /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				55055A3D240FD30900499D5D /* LaunchScreen.storyboard in Resources */,
+				55F66D9E2410244700424950 /* functionToBeCopy.txt in Resources */,
 				55055A3A240FD30900499D5D /* Assets.xcassets in Resources */,
 				55055A38240FD30900499D5D /* Main.storyboard in Resources */,
 			);
